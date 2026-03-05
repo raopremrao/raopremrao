@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm T Prem</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=600&size=25&pause=1000&color=07F746&center=true&width=445&lines=Hi%2C+I'am+T+PREM)](https://git.io/typing-svg)
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 

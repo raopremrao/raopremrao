@@ -29,8 +29,3 @@
 
 ### Links
 
-[![X](https://img.shields.io/badge/@TPrem-000?style=flat-square&logo=x&logoColor=white)](https://x.com/TPrem32646)
-[![YouTube](https://img.shields.io/badge/2.7k_subs-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@samuelrizzondev)
-[![LinkedIn](https://img.shields.io/badge/samuelrizzon-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuelrizzon)
-[![TikTok](https://img.shields.io/badge/@samuelrizzondev-000?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@samuelrizzondev)
-[![Instagram](https://img.shields.io/badge/@samuelrizzondev-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/samuelrizzondev)
